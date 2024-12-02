@@ -7,7 +7,7 @@ _Implemented using `rust` as the programming language._
 | Days | :star: 1 | :star: 2 |
 |------|----------|----------|
 |Day  1|✅        |✅       |
-|Day  2|◻️        |◻️       |
+|Day  2|✅        |✅       |
 |Day  3|◻️        |◻️       |
 |Day  4|◻️        |◻️       |
 |Day  5|◻️        |◻️       |
